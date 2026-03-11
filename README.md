@@ -17,6 +17,7 @@ Current starting points:
 - [AI Usage Methodology V1](./docs/ai-usage-methodology-v1.md)
 - [State Recognition and Collaboration Modes](./docs/state-recognition-and-collaboration-modes.md)
 - [Intervention Depth](./docs/intervention-depth.md)
+- [Validation Framework](./docs/validation-framework.md)
 - [Docs Index](./docs/README.md)
 
 CoStruct is not a prompt repository.
