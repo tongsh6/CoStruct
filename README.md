@@ -29,7 +29,8 @@ It is about something else:
 > how should AI participate so the interaction builds stable capability instead of one-shot convenience?
 
 This repository is now public under the MIT license.
-At the current stage, it is primarily a documentation-first project.
+CoStruct is a methodology and documentation repository.
+It is not intended to become a software implementation project.
 
 ## One-line Definition
 

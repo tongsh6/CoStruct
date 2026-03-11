@@ -3,6 +3,9 @@
 Thanks for contributing to CoStruct.
 
 This repository is currently documentation-first.
+CoStruct does not aim to become a software codebase.
+Contributions should strengthen methodology and documentation, not turn the repository into an implementation project.
+
 Most contributions at this stage will improve:
 
 - methodology clarity
