@@ -18,6 +18,7 @@
 - [状态识别与协作模式](./docs/state-recognition-and-collaboration-modes.md)
 - [干预深度](./docs/intervention-depth.md)
 - [验证框架](./docs/validation-framework.md)
+- [沉淀机制](./docs/accumulation-mechanism.md)
 - [文档索引](./docs/README.md)
 
 CoStruct 不是一个 prompt 仓库。

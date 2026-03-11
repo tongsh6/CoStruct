@@ -18,6 +18,7 @@ Current starting points:
 - [State Recognition and Collaboration Modes](./docs/state-recognition-and-collaboration-modes.md)
 - [Intervention Depth](./docs/intervention-depth.md)
 - [Validation Framework](./docs/validation-framework.md)
+- [Accumulation Mechanism](./docs/accumulation-mechanism.md)
 - [Docs Index](./docs/README.md)
 
 CoStruct is not a prompt repository.
