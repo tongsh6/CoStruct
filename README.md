@@ -6,11 +6,14 @@
 [Docs](./docs/README.md)
 [License: MIT](./LICENSE)
 [Contributing](./CONTRIBUTING.md)
+[Project Page](https://tongsh6.github.io/costruct/)
 
 Open source repository for building a reusable methodology of human-AI collaboration.
 
 Current starting points:
 
+- [Project Page](https://tongsh6.github.io/costruct/)
+- [Launch Post](https://tongsh6.github.io/%E9%A1%B9%E7%9B%AE/2026/03/12/costruct-launch/)
 - [AI Usage Methodology V1](./docs/ai-usage-methodology-v1.md)
 - [Docs Index](./docs/README.md)
 

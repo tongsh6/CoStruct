@@ -6,11 +6,14 @@
 [文档入口](./docs/README.md)
 [许可证：MIT](./LICENSE)
 [参与贡献](./CONTRIBUTING.md)
+[项目主页](https://tongsh6.github.io/costruct/)
 
 这是一个已经公开开源的仓库，用来沉淀一套可复用的人机协作方法。
 
 当前建议先从这里开始：
 
+- [项目主页](https://tongsh6.github.io/costruct/)
+- [首发文章](https://tongsh6.github.io/%E9%A1%B9%E7%9B%AE/2026/03/12/costruct-launch/)
 - [AI 使用方法论 V1 总纲](./docs/ai-usage-methodology-v1.md)
 - [文档索引](./docs/README.md)
 
