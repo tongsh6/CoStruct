@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Read the README
+    url: https://github.com/tongsh6/CoStruct#readme
+    about: Start from the repository overview before opening an issue.
+  - name: Read the docs
+    url: https://github.com/tongsh6/CoStruct/tree/main/docs
+    about: Check the methodology documents before proposing changes.
+  - name: Read the contributing guide
+    url: https://github.com/tongsh6/CoStruct/blob/main/CONTRIBUTING.md
+    about: Review contribution scope and writing expectations before submitting issues or pull requests.
