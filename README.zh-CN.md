@@ -5,6 +5,7 @@
 [English README](./README.md)
 [文档入口](./docs/README.md)
 [许可证：MIT](./LICENSE)
+[参与贡献](./CONTRIBUTING.md)
 
 这是一个已经公开开源的仓库，用来沉淀一套可复用的人机协作方法。
 

@@ -5,6 +5,7 @@
 [中文说明](./README.zh-CN.md)
 [Docs](./docs/README.md)
 [License: MIT](./LICENSE)
+[Contributing](./CONTRIBUTING.md)
 
 Open source repository for building a reusable methodology of human-AI collaboration.
 
