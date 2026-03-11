@@ -4,6 +4,14 @@
 
 [中文说明](./README.zh-CN.md)
 [Docs](./docs/README.md)
+[License: MIT](./LICENSE)
+
+Open source repository for building a reusable methodology of human-AI collaboration.
+
+Current starting points:
+
+- [AI Usage Methodology V1](./docs/ai-usage-methodology-v1.md)
+- [Docs Index](./docs/README.md)
 
 CoStruct is not a prompt repository.
 It is not a model news feed, a tool list, or a dump of automation scripts.
@@ -18,6 +26,9 @@ It is about something else:
 
 > When a human is exploring, clarifying, executing, verifying, or accumulating,  
 > how should AI participate so the interaction builds stable capability instead of one-shot convenience?
+
+This repository is now public under the MIT license.
+At the current stage, it is primarily a documentation-first project.
 
 ## One-line Definition
 
