@@ -15,6 +15,7 @@
 - [项目主页](https://tongsh6.github.io/costruct/)
 - [首发文章](https://tongsh6.github.io/%E9%A1%B9%E7%9B%AE/2026/03/12/costruct-launch/)
 - [AI 使用方法论 V1 总纲](./docs/ai-usage-methodology-v1.md)
+- [状态识别与协作模式](./docs/state-recognition-and-collaboration-modes.md)
 - [文档索引](./docs/README.md)
 
 CoStruct 不是一个 prompt 仓库。
