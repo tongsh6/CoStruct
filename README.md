@@ -16,6 +16,7 @@ Current starting points:
 - [Launch Post](https://tongsh6.github.io/%E9%A1%B9%E7%9B%AE/2026/03/12/costruct-launch/)
 - [AI Usage Methodology V1](./docs/ai-usage-methodology-v1.md)
 - [State Recognition and Collaboration Modes](./docs/state-recognition-and-collaboration-modes.md)
+- [Intervention Depth](./docs/intervention-depth.md)
 - [Docs Index](./docs/README.md)
 
 CoStruct is not a prompt repository.
