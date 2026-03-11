@@ -71,6 +71,9 @@ When editing documents:
 - do not turn methodology documents into prompt collections
 
 If you introduce a new term, define it clearly and keep it distinct from nearby concepts.
+Prefer the repository glossary for stable naming:
+
+- [CoStruct Terminology](./docs/terminology.md)
 
 Examples:
 

@@ -8,103 +8,27 @@
 [Contributing](./CONTRIBUTING.md)
 [Project Page](https://tongsh6.github.io/costruct/)
 
-Open source repository for building a reusable methodology of human-AI collaboration.
-
-Current starting points:
-
-- [Project Page](https://tongsh6.github.io/costruct/)
-- [Launch Post](https://tongsh6.github.io/%E9%A1%B9%E7%9B%AE/2026/03/12/costruct-launch/)
-- [AI Usage Methodology V1](./docs/ai-usage-methodology-v1.md)
-- [State Recognition and Collaboration Modes](./docs/state-recognition-and-collaboration-modes.md)
-- [Intervention Depth](./docs/intervention-depth.md)
-- [Validation Framework](./docs/validation-framework.md)
-- [Accumulation Mechanism](./docs/accumulation-mechanism.md)
-- [Docs Index](./docs/README.md)
-
-CoStruct is not a prompt repository.
-It is not a model news feed, a tool list, or a dump of automation scripts.
-
-It is trying to do something more specific and harder:
-
-Turn personal AI practice into a reusable, verifiable, accumulable, and iteratively improvable
-human-AI collaboration structure.
-
-It is not mainly about how to ask AI once.
-It is about something else:
-
-> When a human is exploring, clarifying, executing, verifying, or accumulating,  
-> how should AI participate so the interaction builds stable capability instead of one-shot convenience?
-
-This repository is now public under the MIT license.
-CoStruct is a methodology and documentation repository.
-It is not intended to become a software implementation project.
-
 ## One-line Definition
 
 CoStruct is a methodology project for human-AI collaboration.
-It tries to compress scattered AI usage experience into reusable structures, workflows, and assets.
-
-## Why This Project Exists
-
-Most people still use AI at the level of instant convenience:
-
-- ask once
-- get output
-- move on
-
-That does create local speed.
-But it creates very little structural growth.
-
-The usual result is:
-
-- frequent usage without a stable method
-- a lot of output without reliable judgment
-- many conversations without reusable accumulation
-- visible efficiency gains without long-term structural growth
-
-CoStruct exists to close that gap.
-
-It is not primarily concerned with getting more answers out of AI.
-It is concerned with this:
-
-> How do repeated AI interactions become a way of working that can be repeated, checked, improved, and accumulated?
+It is a documentation-first repository for turning personal AI practice into reusable structures, workflows, and assets.
 
 ## Core Position
 
-AI should not be treated as a magic replacement.
-AI should be treated as a collaboration layer inside a human-led system.
+AI usage is not mainly a prompting skill problem.
+It is a collaboration structure problem.
 
-The value of AI is not only output generation.
-Its larger value is helping humans make these transitions:
+CoStruct is not a prompt repository, a model news feed, a tool list, or a dump of automation scripts.
+It is trying to build a reusable human-AI collaboration structure that can be repeated, checked, improved, and accumulated.
 
-- from vague intent to clearer structure
-- from local output to stable execution
-- from one-off results to verifiable judgment
-- from single conversations to reusable long-term assets
+## Three Structural Pillars
 
-If those transitions do not happen, AI remains short-term convenience.
-
-If they do happen, AI becomes part of the working system and starts compounding.
-
-## Core Judgments
-
-CoStruct currently stands on a small set of judgments:
-
-- The real problem is not poor prompting, but missing collaboration structure
-- The real gap is not content generation, but whether a stable loop can be formed
-- The real starting point is not a task list, but state recognition
-- The real value is not more conversations, but whether useful experience gets accumulated
-- The thing worth building is not a bag of tricks, but a reusable human-AI system
-
-## Core Questions
-
-This project is built around a small set of questions:
-
-- What role should AI play in a working system?
-- How should human and AI divide responsibility?
-- How do we move from vague intent to reliable execution?
-- How do we verify output instead of blindly trusting it?
-- How do we turn one useful interaction into reusable assets?
+- **State before task**  
+  Effective AI usage starts with recognizing whether the human is exploring, clarifying, executing, verifying, or accumulating.
+- **Deeper intervention requires stronger validation**  
+  The more AI participates in shaping decisions and execution, the higher the verification standard must be.
+- **Maturity comes from accumulation**  
+  The goal is not more one-shot outputs, but reusable assets, patterns, and judgment that compound over time.
 
 ## V1 Scope
 
@@ -119,61 +43,21 @@ The first version of CoStruct focuses on a small but complete loop:
 The goal of V1 is not completeness.
 The goal is a structure that can actually stand on its own.
 
-## Working Hypothesis
+## Entry Points
 
-Effective AI usage does not start with prompts.
-It starts with state.
+- [Project Page](https://tongsh6.github.io/costruct/)
+- [Launch Post](https://tongsh6.github.io/%E9%A1%B9%E7%9B%AE/2026/03/12/costruct-launch/)
+- [AI Usage Methodology V1](./docs/ai-usage-methodology-v1.md)
+- [State Recognition and Collaboration Modes](./docs/state-recognition-and-collaboration-modes.md)
+- [Intervention Depth](./docs/intervention-depth.md)
+- [Validation Framework](./docs/validation-framework.md)
+- [Accumulation Mechanism](./docs/accumulation-mechanism.md)
+- [Terminology](./docs/terminology.md)
+- [Docs Index](./docs/README.md)
 
-Before asking AI to act, the human side needs to know:
+## Publishing Relation
 
-- Am I exploring?
-- Am I clarifying?
-- Am I executing?
-- Am I verifying?
-- Am I extracting something worth accumulating?
+CoStruct's methodology source lives in this repository.
+Its public-facing project page and launch post are published through the separate blog/site repository:
 
-Different states require different:
-
-- AI intervention depth
-- collaboration patterns
-- output expectations
-- verification standards
-
-The correct way to use the same model should not be identical across different states.
-
-## What CoStruct Is Not
-
-CoStruct is not trying to be:
-
-- a generic AI news repository
-- a model comparison site
-- a prompt marketplace
-- a one-shot automation template dump
-- a vague philosophy project without operational artifacts
-
-## Expected Outputs
-
-Over time, this repository should accumulate a set of things that are actually usable:
-
-- methodology notes
-- state-driven collaboration patterns
-- verification checklists
-- reusable templates
-- agent or skill definitions
-- real case studies
-- README-level project narratives
-
-## Initial Repository Direction
-
-This repository should grow in this order:
-
-1. Define the core project statement
-2. Write the methodology backbone
-3. Extract a small set of reusable patterns
-4. Attach real examples
-5. Refine naming, structure, and public presentation
-
-## Current Principle
-
-Prefer a smaller structure that actually closes the loop.
-Avoid expanding scope before the first version can stand on its own.
+- [tongsh6/tongsh6.github.io](https://github.com/tongsh6/tongsh6.github.io)
